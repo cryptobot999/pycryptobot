@@ -2,6 +2,16 @@
 
 [![Docker](https://github.com/whittlem/pycryptobot/actions/workflows/container.yml/badge.svg)](https://github.com/whittlem/pycryptobot/actions/workflows/container.yml/badge.svg) [![Tests](https://github.com/whittlem/pycryptobot/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/whittlem/pycryptobot/actions/workflows/unit-tests.yml/badge.svg)
 
+## How to install
+
+Install the python on your pc and run the next commands.
+
+```
+pip install -r requirements.txt
+
+python pycryptobot.py
+```
+
 ## Join our chat on Telegram
 
 <https://t.me/joinchat/09hYKfelbRY2MDNk>
